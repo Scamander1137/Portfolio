@@ -24,12 +24,24 @@
 
 }
 
+.description {
+
+    text-align: center;
+    outline-color: aqua;
+    font-size: large;
+
+}
+
 .best {
 
     background-color: black;
     position: relative;
-    top: 100px;
-    width: 80vw;
+    top: 50px;
+    min-width: 50vh;
+    max-width: 80vw;
+    min-height: 15vh;
+    max-width: 60vw;
+    width: 100vh;
     height: 40vh;
 
 }
